@@ -24,10 +24,10 @@ The project starts with an exploratory data analysis (EDA) to understand the tre
 - Analyzing the distribution of temperature anomalies.
 
 ### Time Series Plot
-![Time Series Plot](images/time_series_plot.png)
+![Time Series Plot](Images/time_series_plot.png)
 
 ### Distribution of Temperature Anomalies
-![Distribution](images/distribution.png)
+![Distribution](Images/distribution.png)
 
 ## Model Building
 The primary model used in this project is an LSTM neural network built using TensorFlow and Keras. The model architecture consists of:
@@ -40,17 +40,14 @@ The model is evaluated using the following metrics:
 - Mean Absolute Error (MAE)
 - Root Mean Squared Error (RMSE)
 
-### Training History
-![Training History](images/training_history.png)
-
 ### Actual vs Predicted Values
-![Actual vs Predicted](images/actual_vs_predicted.png)
+![Actual vs Predicted](Images/actual_vs_predicted.png)
 
 ## Future Predictions
 The model is also used to make future predictions of temperature anomalies for the next 20 years.
 
 ### Future Predictions
-![Future Predictions](images/future_predictions.png)
+![Future Predictions](Images/future_predictions.png)
 
 ## Conclusion and Future Work
 ### Conclusion
